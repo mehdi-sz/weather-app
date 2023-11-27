@@ -7,6 +7,12 @@
 body {
     background-color: #1d3557;
 }
+.title {
+    color: #fff;
+    text-align: center;
+    margin-top: 10%;
+    font-family: 'Poppins', sans-serif;
+}
 .card {
     width: 90%;
     max-width: 470px;
@@ -80,4 +86,16 @@ body {
 .humidity, .wind {
     font-size: 28px;
     margin-top: -6px;
+}
+.weather {
+    display: none;
+}
+.error {
+    text-align: left;
+
+    margin-left: 10px;
+    font-size: 14px;
+    margin-top: 10px;
+    display: none;
+    color: #e63946;
 }
