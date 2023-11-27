@@ -1,3 +1,4 @@
+
 * {
     margin: 0;
     padding: 0;
@@ -5,7 +6,7 @@
     box-sizing: border-box;
 }
 body {
-    background-color: #1d3557;
+    background-color: #284b63;
 }
 .title {
     color: #fff;
@@ -98,6 +99,7 @@ body {
     margin-top: 10px;
     display: none;
     color: #e63946;
+    font-weight: 500;
 }
 footer {
     display: flex;
@@ -106,7 +108,7 @@ footer {
     width: 100%;
     position: absolute;
     bottom: 5%;
-    color: #FFF;
+    color: #eeeeff;
     font-weight: 500;
 
 }
