@@ -99,3 +99,14 @@ body {
     display: none;
     color: #e63946;
 }
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    position: absolute;
+    bottom: 5%;
+    color: #FFF;
+    font-weight: 500;
+
+}
